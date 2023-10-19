@@ -25,4 +25,4 @@ jobs:
           allowed-authors: |
             peternied
           allowed-files: |
-            **
+            .gitignore
